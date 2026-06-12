@@ -1,0 +1,11 @@
+[
+  { "q": "Çalışma saatleriniz neler?", "a": "Volta her gün 08:00 - 22:00 saatleri arasında açıktır." },
+  { "q": "Adresiniz nerede?", "a": "Volta Coffee, Bağdat Caddesi No:142, Kadıköy, İstanbul." },
+  { "q": "Wi-Fi var mı?", "a": "Evet, tüm misafirlerimize ücretsiz Wi-Fi sunuyoruz. Şifre kasadan alınabilir." },
+  { "q": "Vegan seçenekler var mı?", "a": "Evet. Brownie'miz vegan, ayrıca tüm içeceklerimizde oat milk veya badem sütü ile hazırlanabilir." },
+  { "q": "Rezervasyon alıyor musunuz?", "a": "Volta'da yer rezervasyonu yoktur, ilk gelen ilk alır politikamızla misafirlerimizi ağırlıyoruz." },
+  { "q": "Fiyatlarınıza KDV dahil mi?", "a": "Evet, tüm fiyatlarımız KDV dahildir." },
+  { "q": "Yapay zeka öneri sisteminize güvenebilir miyim?", "a": "Quiz sistemimiz yalnızca Volta menüsündeki gerçek ürünleri önerir. Hiçbir zaman menü dışı bir şey önermez. Sonuç beğenmezsen menüyü kendin inceleyebilirsin." },
+  { "q": "Chatbot yanlış bilgi verirse ne olur?", "a": "Chatbot'umuz yalnızca Volta'ya ait onaylı bilgilerden cevap verir. Emin olamadığı durumlarda sizi kasaya yönlendirir." },
+  { "q": "Neden yapay zeka kullanıyorsunuz?", "a": "Volta'da AI, çalışanlarımızın yerini almak için değil, sizi daha iyi tanıyıp size özel öneri sunmak için burada. Her zaman gerçek bir insanla konuşmayı tercih edebilirsiniz." }
+]

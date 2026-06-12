@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-volta-cream: #F5F0E8;
+  --color-volta-espresso: #1C0F07;
+  --color-volta-brown: #3D1E0E;
+  --color-volta-warm: #C8996A;
+  --color-volta-sand: #E8DCC8;
+  --color-volta-white: #FDFAF6;
+  --font-playfair: "Playfair Display", serif;
+  --font-inter: "Inter", sans-serif;
+}
+
+:root {
+  --background: #F5F0E8;
+  --foreground: #1C0F07;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Inter", sans-serif;
+}
+
+.font-playfair {
+  font-family: "Playfair Display", serif;
+}

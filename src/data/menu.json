@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "Espresso Bazlı",
+      "items": [
+        { "id": 1, "name": "Espresso", "price": 65, "description": "Tek shot, yoğun ve saf.", "tags": ["sıcak", "güçlü"] },
+        { "id": 2, "name": "Cortado", "price": 75, "description": "Eşit oranda espresso ve sıcak süt.", "tags": ["sıcak", "dengeli"] },
+        { "id": 3, "name": "Flat White", "price": 85, "description": "Çift shot üzerine ince süt köpüğü.", "tags": ["sıcak", "kremsi"] },
+        { "id": 4, "name": "Latte", "price": 90, "description": "Hafif ve kremsi, günün her saati.", "tags": ["sıcak", "hafif"] },
+        { "id": 5, "name": "Cappuccino", "price": 85, "description": "Klasik İtalyan dengesi.", "tags": ["sıcak", "köpüklü"] }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "items": [
+        { "id": 6, "name": "Cold Brew", "price": 95, "description": "12 saat demlenen, pürüzsüz ve derin.", "tags": ["soğuk", "güçlü"] },
+        { "id": 7, "name": "Iced Latte", "price": 95, "description": "Espresso, süt ve buz. Sade mükemmellik.", "tags": ["soğuk", "hafif"] },
+        { "id": 8, "name": "Matcha Latte", "price": 100, "description": "Seramoni kalitesi matcha, oat milk ile.", "tags": ["soğuk", "sıcak", "hafif", "kafeinsiz"] }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "items": [
+        { "id": 9, "name": "Avokado Toast", "price": 120, "description": "Ekşi maya ekmek, taze avokado, çeri domates.", "tags": ["vejetaryen", "doyurucu"] },
+        { "id": 10, "name": "Mantar Tost", "price": 110, "description": "Sote mantar, krem peynir, taze kekik.", "tags": ["vejetaryen", "sıcak"] },
+        { "id": 11, "name": "Granola Kase", "price": 95, "description": "Ev yapımı granola, yoğurt, mevsim meyveleri.", "tags": ["vejetaryen", "hafif"] },
+        { "id": 12, "name": "Brownie", "price": 70, "description": "Günlük taze, bitter çikolata.", "tags": ["tatlı", "vegan"] }
+      ]
+    }
+  ]
+}
