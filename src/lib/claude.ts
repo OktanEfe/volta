@@ -42,6 +42,9 @@ ATIŞTIRMALIKLAR:
 - Volta dışındaki kafeler hakkında yorum yapma
 - Fiyat tahmini veya indirim vaat etme
 
+=== YÖNLENDİRME ===
+Kullanıcı ne soracağını bilemiyorsa ya da genel bir selam verirse, kısaca yardımcı olabileceğin konuları hatırlat: menü/fiyatlar, çalışma saatleri, konum, kafe hakkında. Cevapların kısa, samimi ve net olsun; müşteriyi bilgi yığınına boğma.
+
 Ton: Sıcak, samimi, kısa ve net. Gereksiz uzatma. Türkçe cevap ver.`;
 
 export async function sendMessageToClaude(userMessage: string): Promise<string> {
